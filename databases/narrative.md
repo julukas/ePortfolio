@@ -3,7 +3,7 @@
 **Artifact:** Database Project (DAD 220)  
 **Date:** April 2025
 
-- [View Query Examples](databases/queries.md)
+- [View Query Examples](/queries.md)
 
 ### Description:
 This project came from my work in DAD 220 and involved setting up a MongoDB database using Compass. The database was made up of three collections: drugs, patients, and prescriptions. I started with CSV files and imported them into MongoDB Compass, connecting them through a shared value like patient ID or prescription ID. 
